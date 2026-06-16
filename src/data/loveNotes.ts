@@ -1,0 +1,23 @@
+// ❤️ Customize these — every note is shown at random when she clicks a heart.
+export const loveNotes: string[] = [
+  "I love the way your eyes light up when you talk about something you care about.",
+  "Your laugh is my favourite song — I'd put it on repeat for the rest of my life.",
+  "You make ordinary Tuesdays feel like holidays.",
+  "Loving you is the easiest thing I've ever done.",
+  "Four years in and I still get nervous when you smile at me.",
+  "You are my home — wherever you are, that's where I belong.",
+  "I love the way you fight for the people you love. I'm lucky to be one of them.",
+  "The world is softer because you're in it.",
+  "You taught me what patience looks like in a person.",
+  "Your kindness changed me. Quietly, completely.",
+  "I want a thousand more mornings beside you.",
+  "Even on hard days, choosing you is the easy part.",
+  "You are the best surprise life has ever handed me.",
+  "I love how seriously you take the small things — they're never small with you.",
+  "If memories were currency, I'd already be the richest person alive.",
+  "Your hand in mine still feels like the safest place on earth.",
+  "I love watching you sleep, knowing the world hasn't asked anything of you yet.",
+  "You are art. The kind I'll never get tired of looking at.",
+  "Every plan I make ends in 'with you'.",
+  "You are my favourite chapter, my favourite song, my favourite everything.",
+];
