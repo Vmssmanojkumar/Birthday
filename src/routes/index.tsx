@@ -15,14 +15,6 @@ import { Forever } from "@/sections/Forever";
 import { Finale } from "@/sections/Finale";
 
 export const Route = createFileRoute("/")({
-  head: () => ({
-    meta: [
-      { title: "Four Years of Us — A Birthday Love Letter" },
-      { name: "description", content: "A cinematic, handcrafted love letter for the most beautiful person in my life." },
-      { property: "og:title", content: "Four Years of Us" },
-      { property: "og:description", content: "A cinematic love letter — four years, every memory, every promise." },
-    ],
-  }),
   component: Index,
 });
 
